@@ -5,6 +5,6 @@ void pressed() {
   print('hello');
 }
 
-void main() => runApp(FlutterTutorialApp());
+void main() => runApp(const FlutterTutorialApp());
 
 
